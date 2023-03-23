@@ -10,9 +10,11 @@ The Password Generator prompts users to select whether or not they would like to
 
 ## Links:
 
-[Password Generator home screen](Screenshot%202023-03-23%20at%2012.29.01%20AM.png)
-[Password Generator first prompt](Screenshot%202023-03-23%20at%2012.30.37%20AM.png)
-[Final generated password](Screenshot%202023-03-23%20at%2012.30.48%20AM.png)
+https://rebeccalowe.github.io/password-generator/
+
+![Password Generator home screen](Screenshot%202023-03-23%20at%2012.29.01%20AM.png)
+![Password Generator first prompt](Screenshot%202023-03-23%20at%2012.30.37%20AM.png)
+![Final generated password](Screenshot%202023-03-23%20at%2012.30.48%20AM.png)
 
 ## Installation
 N/A
